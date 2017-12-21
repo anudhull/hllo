@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
-printf("Hllo everypne");
+printf("Hllo everyone");
+printf("Whatsupp");
 }
 
